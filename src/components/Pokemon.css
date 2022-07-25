@@ -1,0 +1,56 @@
+h1{
+    font-size: 42px;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bolder;
+    text-shadow: rgb(91, 91, 91) 2px 2px 3px;
+    color: rgb(250, 250, 107);
+    letter-spacing: 4px;
+}
+
+body {
+    background: linear-gradient(180deg, rgb(18, 219, 237), rgb(183, 15, 163));
+    background-size: cover;
+}
+
+.card{
+    background: linear-gradient(180deg, rgb(116, 24, 158), rgb(236, 41, 119));
+    margin-left: 50px;
+    overflow: hidden;
+    border: 0 !important;
+    border-radius: 20px !important;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.429);
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+.card-title{
+    text-align: center;
+    font-family: Roboto;
+    font-weight: lighter;
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+.card-text{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 20px;
+
+}
+.numero{
+    text-align: center;
+    font-family: Roboto;
+    font-weight: lighter;
+    color: rgb(251, 255, 174);
+    
+    font-size: 25px;
+    
+}
+
+.vector{
+    width: 90%;
+    margin-top: 20px;
+}
