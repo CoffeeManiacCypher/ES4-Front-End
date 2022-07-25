@@ -6,8 +6,7 @@ import TapuLele from "../assets/images/pokemon4.png"
 //Importar elemento para la base de las cartas
 import PokemonFragment from './Fragments/PokemonFragment'
 //Importar CSS par un mejor estilo
-import "../components/Pokemon.css";
-
+import "../components/Fragments/Pokemon.css";
 const Pokemon = () => {
 
     return (

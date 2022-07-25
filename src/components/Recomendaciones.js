@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react'
 import RecomendacionFragment from './Fragments/RecomendacionFragment'
 import Mascarilla from "../assets/images/icono1.png"
 import Distancia from "../assets/images/icono2.png"
-import "../components/Recomendacion.css";
+import "../components/Fragments/Recomendacion.css";
 
 const Recomendaciones = () => {
 
